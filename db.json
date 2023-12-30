@@ -30,12 +30,12 @@
       {
         "id_configuration": 0,
         "title": "Notifications",
-        "isChecked": false
+        "is_checked": false
       },
       {
         "id_configuration": 1,
         "title": "Storage",
-        "isChecked": true
+        "is_checked": true
       }
     ]
   }
