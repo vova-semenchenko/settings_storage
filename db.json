@@ -1,0 +1,29 @@
+{
+    "setting": [
+      {
+        "id_setting": 0,
+        "title": "Networks & Internet",
+        "description": "Mobile, Wi-Fi, hotspot"
+      },
+      {
+        "id_setting": 1,
+        "title": "Connected Device",
+        "description": "Bluetooth, pairing"
+      },
+      {
+        "id_setting": 2,
+        "title": "Apps",
+        "description": "Assistant, recent apps, default apps"
+      },
+      {
+        "id_setting": 3,
+        "title": "Battery",
+        "description": "72% - Until 12:45 PM"
+      },
+      {
+        "id_setting": 4,
+        "title": "Sounds & Vibration",
+        "description": "Volume, haptics, Do  Not Disturb"
+      }
+    ]
+  }
