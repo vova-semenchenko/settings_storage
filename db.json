@@ -1,5 +1,5 @@
 {
-    "setting": [
+    "settings": [
       {
         "id_setting": 0,
         "title": "Networks & Internet",
@@ -25,8 +25,17 @@
         "title": "Sounds & Vibration",
         "description": "Volume, haptics, Do  Not Disturb"
       }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ],    
+    "configurationSettings": [
+      {
+        "id_configuration": 0,
+        "title": "Notifications",
+        "isChecked": false
+      },
+      {
+        "id_configuration": 1,
+        "title": "Storage",
+        "isChecked": true
+      }
+    ]
   }
