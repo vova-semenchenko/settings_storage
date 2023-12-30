@@ -1,39 +1,39 @@
 {
     "settings": [
       {
-        "id_setting": 1,
+        "id": 1,
         "title": "Networks & Internet",
         "description": "Mobile, Wi-Fi, hotspot"
       },
       {
-        "id_setting": 2,
+        "id": 2,
         "title": "Connected Device",
         "description": "Bluetooth, pairing"
       },
       {
-        "id_setting": 3,
+        "id": 3,
         "title": "Apps",
         "description": "Assistant, recent apps, default apps"
       },
       {
-        "id_setting": 4,
+        "id": 4,
         "title": "Battery",
         "description": "72% - Until 12:45 PM"
       }
     ],    
     "configurationSettings": [
       {
-        "id_configuration": 1,
+        "id": 1,
         "title": "Notifications",
         "is_checked": false
       },
       {
-        "id_configuration": 2,
+        "id": 2,
         "title": "Storage",
         "is_checked": true
       },
       {
-        "id_configuration": 3,
+        "id": 3,
         "title": "Sounds & Vibration",
         "is_checked": true
       }
